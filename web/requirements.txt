@@ -1,0 +1,5 @@
+Flask==1.1.4
+psycopg2==2.8.4
+SQLAlchemy==1.4.9
+Flask-SQLAlchemy==2.5.1
+Faker==8.14.0
